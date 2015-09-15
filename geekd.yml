@@ -1,4 +1,9 @@
-location: tbd, Gent
-date: Dinsdag 27 oktober 2015, 19u.
-users: Gert "@g3n" Schepens, Vincent "@vincentvdk" V.d Kussen, Jochen "@sejo_it" Maes
- 
+- location: tbd, Gent
+  date: "Dinsdag 27 oktober 2015, 19u."
+  users: 
+  - name: Gert Schepens
+    twitter: @g3n
+  - name: Vincent Van der Kussen
+    twitter: @vincentvdk
+  - name: Jochen Maes
+    twitter: @sejo_it
