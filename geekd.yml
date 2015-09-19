@@ -13,8 +13,13 @@
     twitter: @marelooke
   - name: Amedee Van Gasse
     twitter: @amedee
+<<<<<<< HEAD
   - name: Christopher Ranschaert
     twitter: @haploc
   tentativeusers:
   - name : Kris Buytaert
     twittert: @krisbuytaert
+=======
+  - name: Mattias Geniar
+    twitter: @mattiasgeniar
+>>>>>>> c0fe072b2ccdea8e8846ac81b9fc4b5cffb6cf10
